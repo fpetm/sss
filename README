@@ -1,0 +1,8 @@
+Basic implementation of Shamir's Secret Sharing algorithm
+
+No external dependencies
+Build with running `make`
+
+Usage:
+`sss encrypt` to encrypt some data
+`sss decrypt` to decrypt data based on some key files
